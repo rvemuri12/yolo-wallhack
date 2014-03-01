@@ -1,0 +1,6 @@
+this is a red file
+lots of code goes here... 
+compiler groans.. 
+assembler moans...
+nothing happens
+end of story.

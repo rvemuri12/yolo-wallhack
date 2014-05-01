@@ -4,3 +4,5 @@ compiler groans..
 assembler moans...
 nothing happens
 end of story.
+
+Another beginning
